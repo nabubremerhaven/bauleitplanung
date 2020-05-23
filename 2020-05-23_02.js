@@ -33,7 +33,7 @@ loxstedt001 = ["loxstedt001", "derzeit keine Stellungnahmen","","",""]
 
 schiffdorf001 = ["schiffdorf001", "derzeit keine Stellungnahmen","","",""]
 
-wnk002 = ["wnk002", 'Wremen: Teil-Flächennutzungsplan, 10. Änderung"',"wremen-wohnanlage-marschenhof/","frühzeitig","05/2020"]
+wnk002 = ["wnk002", 'Wremen: Teil-Flächennutzungsplan, 10. Änderung',"wremen-wohnanlage-marschenhof/","frühzeitig","05/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"',"wremen-wohnanlage-marschenhof/","frühzeitig","05/2020"]
 
 bplaene = [geestland001, geestland002, geestland003, bremerhaven001, loxstedt001,
