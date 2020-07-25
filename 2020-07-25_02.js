@@ -37,8 +37,7 @@ schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohn
 
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"',"wremen-wohnanlage-marschenhof/","frühzeitig","05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven001, loxstedt001,
-               schiffdorf001, schiffdorf002, wnk001]   
+bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven001, loxstedt001, schiffdorf001, schiffdorf002, wnk001]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
