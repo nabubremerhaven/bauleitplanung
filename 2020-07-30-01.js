@@ -35,9 +35,10 @@ loxstedt001 = ["loxstedt001", "derzeit keine Stellungnahmen","","",""]
 schiffdorf002 = ["schiffdorf002", 'Wehdel: Bebauungsplan Nr. 96 "Moorteilsweg"', "wehdel-moorteilsweg", "Öffentlichkeit", "07/2020"]
 schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohnen am Schierholzweg"',"spaden-betreutes-wohnen-am-schierholzweg/","Öffentlichkeit","05/2020"]
 
+wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg", "mulsum-am-wremer-landweg/", "frühzeitig", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "wremen-wohnanlage-marschenhof/", "frühzeitig", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven001, loxstedt001, schiffdorf001, schiffdorf002, wnk001, wnk001]
+bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven001, loxstedt001, schiffdorf001, schiffdorf002, wnk001, wnk002, wnk002]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
