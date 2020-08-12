@@ -28,7 +28,7 @@ geestland003 = ["geestland003", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Maler
 geestland002 = ["geestland002", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "geestland-teil-fnp-bederkesa-10-änderung/", "frühzeitig", "11/2019"]
 geestland001 = ["geestland001", 'Debstedt: "Rosenburg", 2. Änderung des Teil-Flächennutzungsplans', "geestland-teil-fnp-langen-2-änderung/", "Öffentlichkeit", "05/2019"]
 
-bremerhaven003 = ["bremerhaven003", 'Bebauungsplan Nr. 495 "Eingang Geestemünde und Werftquartier","bremerhaven-eingang-geestemuende-und-werftquartier/","frühzeitig","08/2020"]
+bremerhaven003 = ["bremerhaven003", 'Bebauungsplan Nr. 495 "Eingang Geestemünde und Werftquartier"',"bremerhaven-eingang-geestemuende-und-werftquartier/","frühzeitig","08/2020"]
 bremerhaven002 = ["bremerhaven002", 'Bebauungsplan Nr. 497 "Erhaltungssatzung für das Goethequartier einschließlich der Hafenstraße"',"bremerhaven-erhaltungssatzung-goethequartier/","frühzeitig","08/2020"]
 bremerhaven001 = ["bremerhaven001", 'Bebauungsplan Nr. 494 "Green Economy-Gebiet Lune Delta"',"bremerhaven-green-economy-gebiet-lune-delta/","frühzeitig","02/2020"]
 
