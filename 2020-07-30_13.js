@@ -25,7 +25,7 @@ function over_geestland003() {
 
 geestland004 = ["geestland004", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"', "neuenwalde-schafdamm/", "frühzeitig", "07/2020"]
 geestland003 = ["geestland003", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Malerwinkel"', "debstedt-östlich-malerwinkel/", "frühzeitig", "07/2020"]
-geestland002 = ["geestland002", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "geestland-teil-fnp-bederkesa-10-änderung/", "frühzeitig", "11/2019"]
+geestland002 = ["geestland002", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "geestland-bederkesa-energiewerk-lsg-amtswiesen", "frühzeitig", "11/2019"]
 geestland001 = ["geestland001", 'Debstedt: "Rosenburg", 2. Änderung des Teil-Flächennutzungsplans', "geestland-teil-fnp-langen-2-änderung/", "Öffentlichkeit", "05/2019"]
 
 bremerhaven002 = ["bremerhaven002", 'Bebauungsplan Nr. 495 "Eingang Geestemünde und Werftquartier"',"bremerhaven-eingang-geestemünde-und-werftquartier/","frühzeitig","08/2020"]
