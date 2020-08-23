@@ -23,6 +23,7 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
+geestland005 = ["geestland005", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "geestland-bederkesa-energiewerk", "Öffentlichkeit", "08/2020"]
 geestland004 = ["geestland004", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"', "neuenwalde-schafdamm/", "frühzeitig", "07/2020"]
 geestland003 = ["geestland003", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Malerwinkel"', "debstedt-östlich-malerwinkel/", "frühzeitig", "07/2020"]
 geestland002 = ["geestland002", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "geestland-bederkesa-energiewerk", "frühzeitig", "11/2019"]
@@ -40,7 +41,7 @@ schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohn
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "mulsum-am-wremer-landweg/", "frühzeitig", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "wremen-wohnanlage-marschenhof/", "frühzeitig", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven001, bremerhaven002, bremerhaven003, loxstedt001, schiffdorf001, schiffdorf002, wnk001, wnk002, wnk002]
+bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, bremerhaven001, bremerhaven002, bremerhaven003, loxstedt001, schiffdorf001, schiffdorf002, wnk001, wnk002, wnk002]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
