@@ -23,6 +23,7 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
+geestland005 = ["geestland005", 'Lintig: Bebauungsplan Nr. 227 "Erweiterung Hasenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-lintig-erweiterung-hasenweg", "10/2020"]
 geestland004 = ["geestland004", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung (Energiewerk Bederkesa)', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "08/2020"]
 geestland003 = ["geestland003", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/neuenwalde-schafdamm/", "07/2020"]
 geestland002 = ["geestland002", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Malerwinkel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/debstedt-östlich-malerwinkel/", "07/2020"]
@@ -34,6 +35,8 @@ bremerhaven001 = ["bremerhaven001", 'Bebauungsplan Nr. 494 "Green Economy-Gebiet
 
 loxstedt001 = ["loxstedt001", "derzeit keine Stellungnahmen","","",""]
 
+schiffdorf006 = ["schiffdorf006", 'Wehdel: Einbeziehungssatzung "Hainkamp"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/schiffdorf-wehdel-hainkamp", "10/2020"]
+schiffdorf005 = ["schiffdorf005", 'Sellstedt: Bebauungsplan Nr. 105 "Kreuzstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/schiffdorf-sellstedt-kreuzstraße", "10/2020"]
 schiffdorf004 = ["schiffdorf004", 'Schiffdorf: Bebauungsplan Nr. 102 "Feuerwehrhaus Schiffdorf"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/schiffdorf-feuerwehrhaus", "08/2020"]
 schiffdorf003 = ["schiffdorf003", 'Wehden: Bebauungsplan Nr. 98 "Am Kirchweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wehden-am-kirchweg", "08/2020"]
 schiffdorf002 = ["schiffdorf002", 'Wehdel: Bebauungsplan Nr. 96 "Moorteilsweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wehdel-moorteilsweg", "07/2020"]
@@ -42,7 +45,7 @@ schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohn
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/mulsum-am-wremer-landweg/", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wremen-wohnanlage-marschenhof/", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven001, bremerhaven002, bremerhaven003, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, wnk001, wnk002, wnk002]
+bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, bremerhaven001, bremerhaven002, bremerhaven003, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, wnk001, wnk002, wnk002]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
