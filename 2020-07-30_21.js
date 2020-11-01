@@ -23,7 +23,7 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
-geestland004 = ["geestland004", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "08/2020"]
+geestland004 = ["geestland004", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung (Energiewerk Bederkesa)', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "08/2020"]
 geestland003 = ["geestland003", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/neuenwalde-schafdamm/", "07/2020"]
 geestland002 = ["geestland002", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Malerwinkel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/debstedt-östlich-malerwinkel/", "07/2020"]
 geestland001 = ["geestland001", 'Debstedt: "Rosenburg", 2. Änderung des Teil-Flächennutzungsplans', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-teil-fnp-langen-2-änderung/", "05/2019"]
