@@ -23,10 +23,9 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
-geestland005 = ["geestland005", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "Öffentlichkeit", "08/2020"]
-geestland004 = ["geestland004", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/neuenwalde-schafdamm/", "frühzeitig", "07/2020"]
-geestland003 = ["geestland003", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Malerwinkel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/debstedt-östlich-malerwinkel/", "frühzeitig", "07/2020"]
-geestland002 = ["geestland002", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "frühzeitig", "11/2019"]
+geestland004 = ["geestland004", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "Öffentlichkeit", "08/2020"]
+geestland003 = ["geestland003", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/neuenwalde-schafdamm/", "frühzeitig", "07/2020"]
+geestland002 = ["geestland002", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Malerwinkel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/debstedt-östlich-malerwinkel/", "frühzeitig", "07/2020"]
 geestland001 = ["geestland001", 'Debstedt: "Rosenburg", 2. Änderung des Teil-Flächennutzungsplans', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-teil-fnp-langen-2-änderung/", "Öffentlichkeit", "05/2019"]
 
 bremerhaven002 = ["bremerhaven002", 'Bebauungsplan Nr. 495 "Eingang Geestemünde und Werftquartier"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-eingang-geestemünde-und-werftquartier/","frühzeitig","08/2020"]
@@ -43,7 +42,7 @@ schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohn
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/mulsum-am-wremer-landweg/", "frühzeitig", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wremen-wohnanlage-marschenhof/", "frühzeitig", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, bremerhaven001, bremerhaven002, bremerhaven003, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, wnk001, wnk002, wnk002]
+bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven001, bremerhaven002, bremerhaven003, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, wnk001, wnk002, wnk002]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
