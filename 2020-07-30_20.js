@@ -49,4 +49,4 @@ bplaene = [geestland001, geestland002, geestland003, geestland004, bremerhaven00
 for (let i of bplaene) {
     for (j = 0, len = i.length; j < len; j++) {document.getElementById(i[0]).getElementsByTagName("a")[0].innerText=i[1];
                                                document.getElementById(i[0]).getElementsByTagName("a")[0].href=i[2];
-                                              document.getElementById(i[0]).getElementsByTagName("p")[1].innerHTML=i[4];}}
+                                              document.getElementById(i[0]).getElementsByTagName("p")[0].innerHTML=i[3];}}
