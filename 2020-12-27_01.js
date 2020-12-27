@@ -23,6 +23,7 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
+geestland006 = ["geestland006", 'Sievern: Bebauungsplan Nr. 76 "Campingplatz Sievern", 1. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sievern-campingplatz", "11/2020"]
 geestland005 = ["geestland005", 'Lintig: Bebauungsplan Nr. 227 "Erweiterung Hasenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/lintig-erweiterung-hasenweg", "10/2020"]
 geestland004 = ["geestland004", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung (Energiewerk Bederkesa)', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "08/2020"]
 geestland003 = ["geestland003", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/neuenwalde-schafdamm/", "07/2020"]
@@ -32,9 +33,12 @@ geestland001 = ["geestland001", 'Debstedt: "Rosenburg", 2. Änderung des Teil-Fl
 bremerhaven002 = ["bremerhaven002", 'Bebauungsplan Nr. 495 "Eingang Geestemünde und Werftquartier"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-eingang-geestemünde-und-werftquartier/","08/2020"]
 bremerhaven003 = ["bremerhaven003", 'Bebauungsplan Nr. 497 "Erhaltungssatzung für das Goethequartier einschließlich der Hafenstraße"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-erhaltungssatzung-goethequartier/","08/2020"]
 bremerhaven001 = ["bremerhaven001", 'Bebauungsplan Nr. 494 "Green Economy-Gebiet Lune Delta"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-green-economy-gebiet-lune-delta/","02/2020"]
+bremerhaven004 = ["bremerhaven004", 'Bebauungsplan Nr. 491 "Hackfahrel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-hackfahrel/", "12/2020"]
 
 loxstedt001 = ["loxstedt001", "derzeit keine Stellungnahmen","","",""]
 
+schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "11/2020"]
+schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meerselfeld", "11/2020"]
 schiffdorf006 = ["schiffdorf006", 'Wehdel: Einbeziehungssatzung "Hainkamp"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wehdel-hainkamp", "10/2020"]
 schiffdorf005 = ["schiffdorf005", 'Sellstedt: Bebauungsplan Nr. 105 "Kreuzstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sellstedt-kreuzstraße", "10/2020"]
 schiffdorf004 = ["schiffdorf004", 'Schiffdorf: Bebauungsplan Nr. 102 "Feuerwehrhaus Schiffdorf"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/schiffdorf-feuerwehrhaus", "08/2020"]
@@ -45,7 +49,7 @@ schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohn
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/mulsum-am-wremer-landweg/", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wremen-wohnanlage-marschenhof/", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, bremerhaven001, bremerhaven002, bremerhaven003, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, wnk001, wnk002, wnk002]
+bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, wnk001, wnk002, wnk002]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
