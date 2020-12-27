@@ -38,7 +38,7 @@ bremerhaven004 = ["bremerhaven004", 'Bebauungsplan Nr. 491 "Hackfahrel"', "https
 loxstedt001 = ["loxstedt001", "derzeit keine Stellungnahmen","","",""]
 
 schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "11/2020"]
-schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meerselfeld", "11/2020"]
+schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meersenfeld", "11/2020"]
 schiffdorf006 = ["schiffdorf006", 'Wehdel: Einbeziehungssatzung "Hainkamp"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wehdel-hainkamp", "10/2020"]
 schiffdorf005 = ["schiffdorf005", 'Sellstedt: Bebauungsplan Nr. 105 "Kreuzstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sellstedt-kreuzstraße", "10/2020"]
 schiffdorf004 = ["schiffdorf004", 'Schiffdorf: Bebauungsplan Nr. 102 "Feuerwehrhaus Schiffdorf"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/schiffdorf-feuerwehrhaus", "08/2020"]
