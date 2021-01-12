@@ -34,6 +34,7 @@ bremerhaven002 = ["bremerhaven002", 'Bebauungsplan Nr. 495 "Eingang Geestemünde
 bremerhaven003 = ["bremerhaven003", 'Bebauungsplan Nr. 497 "Erhaltungssatzung für das Goethequartier einschließlich der Hafenstraße"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-erhaltungssatzung-goethequartier/","08/2020"]
 bremerhaven001 = ["bremerhaven001", 'Bebauungsplan Nr. 494 "Green Economy-Gebiet Lune Delta"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-green-economy-gebiet-lune-delta/","02/2020"]
 bremerhaven004 = ["bremerhaven004", 'Bebauungsplan Nr. 491 "Hackfahrel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-hackfahrel/", "12/2020"]
+bremerhaven005 = ["bremerhaven005", 'Bebauungsplan Nr. 493 "Poggenbruchstraße / Weg 89"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-poggenbruchstraße-weg-89/", "01/2021"]
 
 loxstedt001 = ["loxstedt001", "derzeit keine Stellungnahmen","","",""]
 
@@ -49,7 +50,7 @@ schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohn
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/mulsum-am-wremer-landweg/", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wremen-wohnanlage-marschenhof/", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, wnk001, wnk002, wnk002]
+bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, bremerhaven005, loxstedt001, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, wnk001, wnk002, wnk002]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
