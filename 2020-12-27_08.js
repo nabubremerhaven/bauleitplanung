@@ -37,8 +37,8 @@ bremerhaven004 = ["bremerhaven004", 'Bebauungsplan Nr. 491 "Hackfahrel"', "https
 bremerhaven005 = ["bremerhaven005", 'Bebauungsplan Nr. 493 "Poggenbruchstraße / Weg 89"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-poggenbruchstraße-weg-89/", "01/2021"]
 bremerhaven006 = ["bremerhaven006", 'Bebauungsplan Nr. 469 "Entwicklungsgebiet Rudloffstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-entwicklungsgebiet-rudloffstraße/", "01/2021"]
 
-loxstedt001 = ["loxstedt001", 'Bebauungsplan Nr. 52 "Claus-Giesschen-Straße II"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-claus-giesschen-straße-ii/","01/2021"]
-loxstedt002 = ["loxstedt002", 'Bebauungsplan Nr. 53 "Schwaaner Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-schwaaner-straße/","01/2021"]
+loxstedt001 = ["loxstedt001", 'Loxstedt: Bebauungsplan Nr. 52 "Claus-Giesschen-Straße II"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-claus-giesschen-straße-ii/","01/2021"]
+loxstedt002 = ["loxstedt002", 'Loxstedt: Bebauungsplan Nr. 53 "Schwaaner Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-schwaaner-straße/","01/2021"]
 
 schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "11/2020"]
 schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meersenfeld", "11/2020"]
