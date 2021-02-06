@@ -23,7 +23,7 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
-geestland007 = ["geestland007", 'Holßel: Bebauungsplan Nr. 28 "Am Königsweg II"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/holßel-am-königsweg-ii", "02/2021"]
+geestland007 = ["geestland007", 'Holßel: Bebauungsplan Nr. 228 "Am Königsweg II"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/holßel-am-königsweg-ii", "02/2021"]
 geestland006 = ["geestland006", 'Sievern: Bebauungsplan Nr. 76 "Campingplatz Sievern", 1. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sievern-campingplatz", "11/2020"]
 geestland005 = ["geestland005", 'Lintig: Bebauungsplan Nr. 227 "Erweiterung Hasenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/lintig-erweiterung-hasenweg", "10/2020"]
 geestland004 = ["geestland004", 'Bederkesa: Bebauungsplan Nr. 12 "Erholungszentrum", 12. Änderung (Energiewerk Bederkesa)', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-bederkesa-energiewerk", "08/2020"]
