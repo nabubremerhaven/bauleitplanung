@@ -23,6 +23,7 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
+geestland008 = ["geestland008", 'Ringstedt: Bebauungsplan Nr. 8 "Keilstraße", 2. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/ringstedt-keilstraße-2-änderung", "01/2021"]
 geestland007 = ["geestland007", 'Holßel: Bebauungsplan Nr. 228 "Am Königsweg II"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/holßel-am-königsweg-ii", "02/2021"]
 geestland006 = ["geestland006", 'Sievern: Bebauungsplan Nr. 76 "Campingplatz Sievern", 1. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sievern-campingplatz", "11/2020"]
 geestland005 = ["geestland005", 'Lintig: Bebauungsplan Nr. 227 "Erweiterung Hasenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/lintig-erweiterung-hasenweg", "10/2020"]
@@ -53,7 +54,7 @@ schiffdorf001 = ["schiffdorf001", 'Spaden: Bebauungsplan Nr. 103 "Betreutes Wohn
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/mulsum-am-wremer-landweg/", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wremen-wohnanlage-marschenhof/", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, geestland007, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, bremerhaven005, bremerhaven006, loxstedt001, loxstedt002, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, wnk001, wnk002, wnk002]
+bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, geestland007, geestland008, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, bremerhaven005, bremerhaven006, loxstedt001, loxstedt002, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, wnk001, wnk002, wnk002]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
