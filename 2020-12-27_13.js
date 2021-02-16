@@ -42,7 +42,7 @@ bremerhaven006 = ["bremerhaven006", 'Bebauungsplan Nr. 469 "Entwicklungsgebiet R
 loxstedt001 = ["loxstedt001", 'Loxstedt: Bebauungsplan Nr. 52 "Claus-Giesschen-Straße II"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-claus-giesschen-straße-ii/","01/2021"]
 loxstedt002 = ["loxstedt002", 'Loxstedt: Bebauungsplan Nr. 53 "Schwaaner Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-schwaaner-straße/","01/2021"]
 
-schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "11/2020"]
+schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "02/2021"]
 schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meersenfeld", "11/2020"]
 schiffdorf006 = ["schiffdorf006", 'Wehdel: Einbeziehungssatzung "Hainkamp"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wehdel-hainkamp", "10/2020"]
 schiffdorf005 = ["schiffdorf005", 'Sellstedt: Bebauungsplan Nr. 105 "Kreuzstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sellstedt-kreuzstraße", "10/2020"]
