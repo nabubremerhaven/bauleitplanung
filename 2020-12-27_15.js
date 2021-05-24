@@ -32,12 +32,12 @@ geestland003 = ["geestland003", 'Neuenwalde: Bebauungsplan Nr. 226 "Schafdamm"',
 geestland002 = ["geestland002", 'Debstedt: Bebauungsplan Nr. 224 "Östlich Malerwinkel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/debstedt-östlich-malerwinkel/", "07/2020"]
 geestland001 = ["geestland001", 'Debstedt: "Rosenburg", 2. Änderung des Teil-Flächennutzungsplans', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/geestland-teil-fnp-langen-2-änderung/", "05/2019"]
 
-bremerhaven002 = ["bremerhaven002", 'Bebauungsplan Nr. 495 "Eingang Geestemünde und Werftquartier"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-eingang-geestemünde-und-werftquartier/","08/2020"]
-bremerhaven003 = ["bremerhaven003", 'Bebauungsplan Nr. 497 "Erhaltungssatzung für das Goethequartier einschließlich der Hafenstraße"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-erhaltungssatzung-goethequartier/","08/2020"]
-bremerhaven001 = ["bremerhaven001", 'Bebauungsplan Nr. 494 "Green Economy-Gebiet Lune Delta"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-green-economy-gebiet-lune-delta/","02/2020"]
-bremerhaven004 = ["bremerhaven004", 'Bebauungsplan Nr. 491 "Hackfahrel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-hackfahrel/", "12/2020"]
-bremerhaven005 = ["bremerhaven005", 'Bebauungsplan Nr. 493 "Poggenbruchstraße / Weg 89"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-poggenbruchstraße-weg-89/", "01/2021"]
-bremerhaven006 = ["bremerhaven006", 'Bebauungsplan Nr. 469 "Entwicklungsgebiet Rudloffstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-entwicklungsgebiet-rudloffstraße/", "01/2021"]
+bremerhaven002 = ["bremerhaven001", 'Bebauungsplan Nr. 495 "Eingang Geestemünde und Werftquartier"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-eingang-geestemünde-und-werftquartier/","08/2020"]
+bremerhaven003 = ["bremerhaven002", 'Bebauungsplan Nr. 497 "Erhaltungssatzung für das Goethequartier einschließlich der Hafenstraße"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-erhaltungssatzung-goethequartier/","08/2020"]
+bremerhaven001 = ["bremerhaven006", 'Bebauungsplan Nr. 494 "Green Economy-Gebiet Lune Delta"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-green-economy-gebiet-lune-delta/","05/2021"]
+bremerhaven004 = ["bremerhaven003", 'Bebauungsplan Nr. 491 "Hackfahrel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-hackfahrel/", "12/2020"]
+bremerhaven005 = ["bremerhaven004", 'Bebauungsplan Nr. 493 "Poggenbruchstraße / Weg 89"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-poggenbruchstraße-weg-89/", "01/2021"]
+bremerhaven006 = ["bremerhaven005", 'Bebauungsplan Nr. 469 "Entwicklungsgebiet Rudloffstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-entwicklungsgebiet-rudloffstraße/", "01/2021"]
 
 loxstedt001 = ["loxstedt001", 'Loxstedt: Bebauungsplan Nr. 52 "Claus-Giesschen-Straße II"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-claus-giesschen-straße-ii/","01/2021"]
 loxstedt002 = ["loxstedt002", 'Loxstedt: Bebauungsplan Nr. 53 "Schwaaner Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-schwaaner-straße/","01/2021"]
