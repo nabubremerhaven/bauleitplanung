@@ -41,7 +41,7 @@ bremerhaven006 = ["bremerhaven005", 'Bebauungsplan Nr. 469 "Entwicklungsgebiet R
 
 loxstedt001 = ["loxstedt001", 'Loxstedt: Bebauungsplan Nr. 52 "Claus-Giesschen-Straße II"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-claus-giesschen-straße-ii/","01/2021"]
 loxstedt002 = ["loxstedt002", 'Loxstedt: Bebauungsplan Nr. 53 "Schwaaner Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-schwaaner-straße/","01/2021"]
-loxstedt003 = ["loxstedt003", 'Loxstedt: Bebauungsplan Nr. 21 "Kiebuschstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-kiebuschstraße/","05/2012"]
+loxstedt003 = ["loxstedt003", 'Bexhövede: Bebauungsplan Nr. 21 "Kiebuschstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-kiebuschstraße/","05/2012"]
 
 schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "02/2021"]
 schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meersenfeld", "11/2020"]
