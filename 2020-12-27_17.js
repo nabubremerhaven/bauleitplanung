@@ -41,6 +41,7 @@ bremerhaven006 = ["bremerhaven005", 'Bebauungsplan Nr. 469 "Entwicklungsgebiet R
 
 loxstedt001 = ["loxstedt001", 'Loxstedt: Bebauungsplan Nr. 52 "Claus-Giesschen-Straße II"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-claus-giesschen-straße-ii/","01/2021"]
 loxstedt002 = ["loxstedt002", 'Loxstedt: Bebauungsplan Nr. 53 "Schwaaner Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-schwaaner-straße/","01/2021"]
+loxstedt003 = ["loxstedt003", 'Loxstedt: Bebauungsplan Nr. 21 "Kiebuschstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-kiebuschstraße/","05/2012"]
 
 schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "02/2021"]
 schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meersenfeld", "11/2020"]
@@ -55,7 +56,7 @@ wnk003 = ["wnk003", 'Wremen: Bebauungsplan Nr. 31 "Wohngebiet Strandstraße"', "
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/mulsum-am-wremer-landweg/", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wremen-wohnanlage-marschenhof/", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, geestland007, geestland008, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, bremerhaven005, bremerhaven006, loxstedt001, loxstedt002, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, wnk001, wnk002, wnk003, wnk003]
+bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, geestland007, geestland008, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, bremerhaven005, bremerhaven006, loxstedt001, loxstedt002, loxstedt003, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, wnk001, wnk002, wnk003, wnk003]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
