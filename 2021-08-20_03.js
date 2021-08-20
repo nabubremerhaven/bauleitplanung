@@ -23,7 +23,7 @@ function over_geestland003() {
         
 /* DEFINIEREN DER BPLAN-INFORMATIONEN */    
 
-geestland009 = ["geestland009", 'Langen: Bebauungsplan Nr. 232 "Ortsmitte West"', "ttps://www.nabu-bremerhaven.de/themen/bauleitplanung/langen-ortsmitte-west", "08/2021"]
+geestland009 = ["geestland009", 'Langen: Bebauungsplan Nr. 232 "Ortsmitte West"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/langen-ortsmitte-west", "08/2021"]
 geestland008 = ["geestland008", 'Ringstedt: Bebauungsplan Nr. 8 "Keilstraße", 2. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/ringstedt-keilstraße-2-änderung", "02/2021"]
 geestland007 = ["geestland007", 'Holßel: Bebauungsplan Nr. 228 "Am Königsweg II"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/holßel-am-königsweg-ii", "02/2021"]
 geestland006 = ["geestland006", 'Sievern: Bebauungsplan Nr. 76 "Campingplatz Sievern", 1. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sievern-campingplatz", "11/2020"]
