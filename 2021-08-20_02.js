@@ -47,7 +47,7 @@ loxstedt004 = ["loxstedt004", 'Loxstedt: Bebauungsplan Nr. 12 "Parkanlage", 4. �
 
 schiffdorf012 = ["schiffdorf012", 'Spaden: Bebauungsplan Nr. 110 "Wehdener Straße 34"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-wehdener-straße-34", "08/2021"]
 schiffdorf011 = ["schiffdorf011", 'Wehdel: Bebauungsplan Nr. 106 "Kita an der Wesermünder Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wehdel-kita-an-der-wesermünder-straße", "08/2021"]
-schiffdorf010 = ["schiffdorf010", 'Spaden: Bebauungsplan Nr. 101 "Östlich Postbrookstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/schiffdorf-östlich-postbrookstraße", "08/2021"]
+schiffdorf010 = ["schiffdorf010", 'Schiffdorf: Bebauungsplan Nr. 101 "Östlich Postbrookstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/schiffdorf-östlich-postbrookstraße", "08/2021"]
 schiffdorf009 = ["schiffdorf009", 'Spaden: Bebauungsplan Nr. 41 "Sportanlage Spaden", 2. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-sportanlage-spaden", "08/2021"]
 schiffdorf008 = ["schiffdorf008", 'Spaden: Bebauungsplan Nr. 104 "Kita am Meersenweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-kita-am-meersenweg", "02/2021"]
 schiffdorf007 = ["schiffdorf007", 'Spaden: Bebauungsplan Nr. 10 "Meersenfeld", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/spaden-meersenfeld", "11/2020"]
