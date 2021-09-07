@@ -39,6 +39,7 @@ bremerhaven001 = ["bremerhaven006", 'Bebauungsplan Nr. 494 "Green Economy-Gebiet
 bremerhaven004 = ["bremerhaven003", 'Bebauungsplan Nr. 491 "Hackfahrel"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-hackfahrel/", "12/2020"]
 bremerhaven005 = ["bremerhaven004", 'Bebauungsplan Nr. 493 "Poggenbruchstraße / Weg 89"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-poggenbruchstraße-weg-89/", "01/2021"]
 bremerhaven006 = ["bremerhaven005", 'Bebauungsplan Nr. 469 "Entwicklungsgebiet Rudloffstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-entwicklungsgebiet-rudloffstraße/", "01/2021"]
+bremerhaven007 = ["bremerhaven007", 'Bebauungsplan Nr. 468 "Kreuzackerstraße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/bremerhaven-kreuzackerstraße/", "09/2021"]
 
 loxstedt001 = ["loxstedt001", 'Loxstedt: Bebauungsplan Nr. 52 "Claus-Giesschen-Straße II"',"https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-claus-giesschen-straße-ii/","01/2021"]
 loxstedt002 = ["loxstedt002", 'Loxstedt: Bebauungsplan Nr. 53 "Schwaaner Straße"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/loxstedt-schwaaner-straße/","01/2021"]
@@ -63,7 +64,7 @@ wnk003 = ["wnk003", 'Wremen: Bebauungsplan Nr. 31 "Wohngebiet Strandstraße"', "
 wnk002 = ["wnk002", 'Mulsum: Bebauungsplan Nr. 6 "Am Wremer Landweg"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/mulsum-am-wremer-landweg/", "07/2020"]
 wnk001 = ["wnk001", 'Wremen: Bebauungsplan Nr. 32 "Wohnanlage Marschenhof"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/wremen-wohnanlage-marschenhof/", "05/2020"]
 
-bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, geestland007, geestland008, geestland009, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, bremerhaven005, bremerhaven006, loxstedt001, loxstedt002, loxstedt003, loxstedt004, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, schiffdorf009, schiffdorf010, schiffdorf011, schiffdorf012, wnk001, wnk002, wnk003, wnk004, wnk004]
+bplaene = [geestland001, geestland002, geestland003, geestland004, geestland005, geestland006, geestland007, geestland008, geestland009, bremerhaven001, bremerhaven002, bremerhaven003, bremerhaven004, bremerhaven005, bremerhaven006, bremerhaven007, loxstedt001, loxstedt002, loxstedt003, loxstedt004, schiffdorf001, schiffdorf002, schiffdorf003, schiffdorf004, schiffdorf005, schiffdorf006, schiffdorf007, schiffdorf008, schiffdorf009, schiffdorf010, schiffdorf011, schiffdorf012, wnk001, wnk002, wnk003, wnk004, wnk004]
 
 /* PLATZIEREN DER BPLAN-INFORMATIONEN */    
 
