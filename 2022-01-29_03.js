@@ -26,7 +26,7 @@ function over_geestland003() {
 geestland013 = ["geestland013", 'Sievern: Bebauungsplan Nr. 229 "Am Sohlacker"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/sievern-am-sohlacker", "01/2022"]
 geestland012 = ["geestland012", 'Langen: Bebauungsplan Nr. 218 "Schule Friedrichsruh"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/langen-schule-friedrichsruh", "01/2022"]
 geestland011 = ["geestland011", 'Hymendorf: Bebauungsplan Nr. 231 "Erweiterung Westlich Hymendorf-Dorf', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/hymendorf-erweiterung-westlich-hymendorf-dorf", "01/2022"]
-geestland010 = ["geestland010", 'Debstedt: Bebauungsplan Nr. 36 "An der Autobahn", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/debstedt-an-der-autobahn", "01/2022"] 
+geestland010 = ["geestland010", 'Debstedt: Bebauungsplan Nr. 36 "Gewerbegebiet an der Autobahn", 4. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/debstedt-gewerbegebiet-an-der-autobahn", "01/2022"] 
 
 geestland009 = ["geestland009", 'Langen: Bebauungsplan Nr. 232 "Ortsmitte West"', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/langen-ortsmitte-west", "08/2021"]
 geestland008 = ["geestland008", 'Ringstedt: Bebauungsplan Nr. 8 "Keilstraße", 2. Änderung', "https://www.nabu-bremerhaven.de/themen/bauleitplanung/ringstedt-keilstraße-2-änderung", "02/2021"]
